@@ -50,11 +50,11 @@ Standard library | Input handling, string processing
 ## ⬇️ Sample CLI Menu
 === Caesar Cipher Tool ===
 
-Encrypt a message
+1.Encrypt a message
 
-Decrypt a message
+2.Decrypt a message
 
-Exit
+3.Exit
 
 ---
 
