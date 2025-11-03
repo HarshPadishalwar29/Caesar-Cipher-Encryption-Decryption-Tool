@@ -1,4 +1,4 @@
-# 🔐 Caesar Cipher Tool
+# 🔐 Caesar Cipher Encryption Decryption Tool
 
 A beginner-friendly Python application that provides both **CLI** and **GUI** (Tkinter) interfaces for encrypting and decrypting text using the classic Caesar cipher. This tool demonstrates substitution-based encryption with customizable shift values, input validation, and a clean user experience—ideal for students, educators, and developers learning foundational cryptography and Python GUI programming.
 
